@@ -44,6 +44,9 @@ function controller() {
             case 'logout':
                 handleLogoutAction();
                 break;
+            case 'portfolio':
+                include_once 'templates/portfolio.php';
+                break;
             default:
                 include_once 'templates/home.php';
                 break;

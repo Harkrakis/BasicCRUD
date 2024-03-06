@@ -14,6 +14,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./templates/assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
     <script src="./templates/assets/js/main.js"></script>
     <title>Gestion d'utilisateur</title>
 </head>
@@ -31,7 +32,9 @@
                         // Si l'utilisateur est connecté, afficher les liens du tableau de bord et de déconnexion
                         echo '<li><a href="index.php?action=dashboard">Tableau de bord</a></li>';
                         echo '<li><a href="index.php?action=update">Modifier mes informations</a></li>';
+                        echo '<li><a href="index.php?action=portfolio">Portfolio</a></li>';
                         echo '<li><a href="index.php?action=logout">Déconnexion</a></li>';
+                        
                     }
                 ?>
             </ul>

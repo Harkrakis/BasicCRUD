@@ -1,11 +1,31 @@
 /* style.css */
+Html{
+    background-color: #101010;
+}
+
+@font-face {
+    font-family: Orbitron;
+    src: url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+}
+
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: Orbitron, sans-serif;
     margin: 0;
     padding: 0;
+    color: rgb(0, 0, 0);
+    height: 100vh;
+
+    background: url("../image/LASER_DIVISION_2.png") center center;
+	background-repeat: no-repeat;
+    background-position: center;
+	background-size: 50% auto;
+    background-color: rgba(144, 97, 97, 0.5);
+    /* opacity: .4; */
+    width: 100%;
 }
 
 header {
+    color: white;
     background-color: #333;
     padding: 10px;
 }
@@ -62,7 +82,8 @@ button {
 
 footer {
     background-color: #333;
-    color: #fff;
+    position: fixed;
+    color: #ffffff;
     text-align: center;
     padding: 10px; 
     bottom: 0;
