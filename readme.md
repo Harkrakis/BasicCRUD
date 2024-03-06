@@ -52,8 +52,14 @@ Le maquettage du portfolio est définie comme suit :
 ![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/6ca76363-00e6-491b-bd1e-21f150963c4b)  
 
 **6. Diagrammes UML:**
+Use case diagram
 ![image](https://github.com/Harkrakis/BasicCRUD/blob/main/Diagrammes/CRUD%20Use%20Case%20diagram.png)  
 
+ERD diagram
+![image](https://github.com/Harkrakis/BasicCRUD/blob/main/Diagrammes/Database%20ERD.png)  
+
+Sequence diagram
+![image](https://github.com/Harkrakis/BasicCRUD/blob/main/Diagrammes/Sequence%20diagram.png)  
 
 
 
