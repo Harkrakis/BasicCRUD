@@ -37,7 +37,7 @@ L'arborescence comprendra les sections suivantes :
 
 **4. Charte Graphique:**
 La charte graphique du portfolio est définie comme suit :
-- **Couleurs :** Utilisation des couleurs : #ededed, #333333, #d49625
+- **Couleurs :** Utilisation des couleurs : #ededed, #333333, ##906060
 - ![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/3fe06968-850d-4280-8b75-04857ec26ca5)
 
 
